@@ -1,0 +1,11 @@
+{
+  "paymentGateways": [
+   
+    {
+      "paymentGateway": "/assets/applepay.png"
+    },
+    {
+      "paymentGateway": "/assets/googlepay.png"
+    }
+  ]
+}

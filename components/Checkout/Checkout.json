@@ -1,0 +1,22 @@
+{
+  "paymentGateways": [
+    {
+      "paymentGateway": "/assets/visa.png"
+    },
+    {
+      "paymentGateway": "/assets/americanExpress.png"
+    },
+    {
+      "paymentGateway": "/assets/discover.png"
+    },
+    {
+      "paymentGateway": "/assets/paypal.png"
+    },
+    {
+      "paymentGateway": "/assets/applepay.png"
+    },
+    {
+      "paymentGateway": "/assets/googlepay.png"
+    }
+  ]
+}
