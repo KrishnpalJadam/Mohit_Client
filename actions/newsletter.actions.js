@@ -22,5 +22,6 @@ export async function addToNewsletterAPI(email) {
     return data?.newsletter;
   } catch (error) {
     throw error;
+    
   }
 }

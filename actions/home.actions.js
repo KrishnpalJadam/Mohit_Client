@@ -10,6 +10,7 @@ export async function fetchHomeAPI() {
       headers: {
         "Content-Type": "application/json",
       },
+      // dfjj
       body: JSON.stringify({
         query: GET_HOMEPAGE,
       }),
