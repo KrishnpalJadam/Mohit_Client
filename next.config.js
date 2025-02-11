@@ -13,10 +13,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "www.kiaancloud.store",
       },
-      {
-        protocol: "https",
-        hostname: "https://www.kiaancloud.store/ff/", 
-      },
+      // {
+      //   protocol: "https",
+      //   hostname: "https://www.kiaancloud.store/ff/", 
+      // },
       {
         protocol: "https",
         hostname: "lh3.googleusercontent.com",
